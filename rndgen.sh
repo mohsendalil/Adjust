@@ -1,6 +1,6 @@
 #!/bin/bash
 #rndgen
-#This script generate the unique numbers from 1 to 10 in random order.
+#This script generates the unique numbers from 1 to 10 in random order.
 #No argument need to be specified
 
 
