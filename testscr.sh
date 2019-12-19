@@ -18,7 +18,7 @@ case "$1" in
       if (($? == 0)); then
          eval "./$1" > test_output.txt
       else 
-         echo "Script file name is not correct, please try again"
+         echo "Script file name is not correct, please use relative path and try again"
          exit 1
       fi
    esac
